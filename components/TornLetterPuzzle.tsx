@@ -42,8 +42,8 @@ const TornLetterPuzzle: React.FC = () => {
       className="puzzle-container relative w-full h-[500px] bg-[#ece9e4] rounded-sm border border-black/5 overflow-hidden select-none cursor-default"
     >
       <div className="absolute top-6 left-6 z-10">
-        <h3 className="font-serif-editorial text-xs tracking-[0.4em] uppercase opacity-40">Interactive Artifact 01</h3>
-        <p className="font-handwriting text-2xl text-[#d64933] mt-2">Mending the fragments</p>
+        <h3 className="font-serif-editorial text-xs tracking-[0.4em] uppercase opacity-40"></h3>
+        <p className="font-handwriting text-2xl text-[#d64933] mt-2"></p>
       </div>
 
       {pieces.map((piece) => (
