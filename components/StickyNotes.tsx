@@ -13,7 +13,7 @@ const StickyNotes: React.FC = () => {
   return (
     <section className="py-40 bg-[#ece9e4] relative overflow-hidden min-h-[800px] border-y border-black/5">
       <div className="absolute top-12 left-1/2 -translate-x-1/2 text-center z-10">
-        <h2 className="font-serif-editorial text-xs tracking-[0.5em] uppercase opacity-40 mb-4">Desktop Artifacts</h2>
+        <h2 className="font-serif-editorial text-xs tracking-[0.5em] uppercase opacity-40 mb-4"></h2>
         <p className="font-handwriting text-4xl text-[#2d3e50]">little reminders</p>
       </div>
 
