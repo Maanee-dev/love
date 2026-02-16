@@ -11,8 +11,7 @@ const MusicPlayer: React.FC = () => {
   const tracks = [
     { 
       title: "OUR FAVORITE SONG", 
-      artist: "The Best Memory", 
-      year: "2024", 
+      artist: "obsessed with your mind", 
       url: "https://maanilovesara.com/love45.mp3" 
     },
     { 
